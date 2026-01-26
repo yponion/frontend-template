@@ -1,5 +1,14 @@
 # Frontend Template
 
+## 설명
+
+아래 목록을 적용한 Next.js 프론트엔드 템플릿 입니다.
+
+- shadcn/ui 를 사용한 디자인 시스템
+- Pretendard 폰트
+- light, dark, system 테마
+- 다국어(prefix 라우팅)
+
 ## 주의 사항
 
 ### 새 페이지 개발 시
